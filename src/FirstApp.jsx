@@ -23,7 +23,7 @@ FirstApp.propTypes = {
 //Valores por defecto
 FirstApp.defaultProps = {
     title: 'No hay título',
-    subTitle: 'No hay subtítulo'
+    // subTitle: 'No hay subtítulo'
 }
 
 export default FirstApp

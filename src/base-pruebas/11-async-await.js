@@ -13,8 +13,8 @@ export const getImagen = async() => {
 
     } catch (error) {
         // manejo del error
-        console.log(error)
-        return 'no existe'
+        // console.log(error)
+        return 'no se encontró la imagen'
     }
     
     
