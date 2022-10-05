@@ -11,10 +11,7 @@ import './index.css'
 ReactDOM.createRoot( document.getElementById('root') ).render(
     // Compoonente padre
     <React.StrictMode>
-        {/* componente hijo */}
-        {/* <CounterApp
-            value={ 0 }
-        /> */}
-        <FirstApp subTitle="testing alv"/>
+        {/* <CounterApp value={ 0 } />  */}
+        <FirstApp subTitle="Haciendo mi primer testing"/>
     </React.StrictMode>
 );

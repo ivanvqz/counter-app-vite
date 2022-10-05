@@ -18,8 +18,8 @@ export const CounterApp = ({ value }) => {
     }
 
     return (
-        <div className="center">
-            <h1>CounterApp</h1>
+        <div className="center container">
+            <h1 className="color">CounterApp</h1>
             <h2> { counter } </h2>
             <div>
                 <button onClick={ handleAdd }>
