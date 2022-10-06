@@ -40,6 +40,6 @@ describe('Pruebas en el <CounterApp/>', () => {
         // expect( screen.getByText(2312) ).toBeTruthy()
 
         //acceder al elemento con el aria-label
-        screen.getByRole('button', {name: 'Resetasdad'})
+        screen.getByRole('button', {name: 'btn-reset'})
     })
 })
