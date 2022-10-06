@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <FirstApp /> Debe de hacer match con snapshot 1`] = `
+<div>
+  <div
+    class="container center"
+  >
+    <h3 />
+    <h2>
+      me llamo ivan
+    </h2>
+    <h2>
+      me llamo ivan
+    </h2>
+    <h1
+      data-testid="test-subtitle"
+    >
+       
+      No hay título
+       
+    </h1>
+  </div>
+</div>
+`;
